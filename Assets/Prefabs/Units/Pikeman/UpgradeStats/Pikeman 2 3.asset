@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6bf42e93d333e6b43af3105e04da47de, type: 3}
+  m_Name: Pikeman 2 3
+  m_EditorClassIdentifier: 
+  UpgradeName: Pikeman 2 3
+  UpgradeDescription: 
+  UnitSprite: {fileID: -4661059779878522757, guid: 7c5f85a2bc89c8e47b853d335b7e6648, type: 3}
+  Damage: 5
+  CritChance: 2
+  AttackSpeed: 3
+  ArmorPiercing: 0

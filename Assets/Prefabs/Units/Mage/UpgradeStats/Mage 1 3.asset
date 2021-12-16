@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 504cbc3170428124c8ccbb649702d79e, type: 3}
+  m_Name: Mage 1 3
+  m_EditorClassIdentifier: 
+  UpgradeName: Arcane mage
+  UpgradeDescription: Upgraded spell
+  UnitSprite: {fileID: -3092618186771702557, guid: 6b9951b2161addc4bbd7ba5ae0cc20f3, type: 3}
+  Damage: 20
+  Range: 0
+  CritChance: 2
+  AttackSpeed: 0
+  ProjectileSpeed: 1
+  ProjectilePierces: 5
+  ArmorPiercing: 0
+  Projectile: {fileID: 2320950522089189365, guid: d8504f6c94cdf2849bf8f33f412ef07c, type: 3}
